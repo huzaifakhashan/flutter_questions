@@ -114,11 +114,6 @@ lib/
 
 </div>
 
-## 📥 Download the App
-
-👉 [Download FlutterQuesions APK V1.0.0](https://github.com/huzaifakhashan/flutter_questions/releases/tag/v1.0.0)
-
-👉 [Download FlutterQuesions APK v1.0.0 for windows](https://github.com/huzaifakhashan/flutter_questions/releases/tag/v1.0)
 
 
 ```dart
@@ -135,4 +130,11 @@ Question(
 User::with('posts')->get();''', // اختياري
 ),
   
+```
+
+## 📥 Download the App
+
+👉 [Download FlutterQuesions APK V1.0.0](https://github.com/huzaifakhashan/flutter_questions/releases/tag/v1.0.0)
+
+👉 [Download FlutterQuesions APK v1.0.0 for windows](https://github.com/huzaifakhashan/flutter_questions/releases/tag/v1.0)
 
