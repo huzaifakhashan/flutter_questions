@@ -1,11 +1,11 @@
 {
-    "name": "flutter_questions",
-    "short_name": "flutter_questions",
+    "name": "أسئلة المقابلات",
+    "short_name": "أسئلة المقابلات",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "أسئلة وأجوبة للتحضير لمقابلات العمل البرمجية",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
